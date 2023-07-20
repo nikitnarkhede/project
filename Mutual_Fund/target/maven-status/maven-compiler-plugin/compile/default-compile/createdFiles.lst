@@ -1,0 +1,10 @@
+org\example\customer\FundManagerImpl.class
+org\example\customer\Priceallocation.class
+org\example\customer\AdminImpl.class
+org\example\customer\FundManager.class
+org\example\Main.class
+org\example\customer\Admin.class
+org\example\customer\Customer.class
+org\example\customer\Fund.class
+org\example\customer\BuySell.class
+org\example\customer\Portfolio.class
